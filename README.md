@@ -1,6 +1,6 @@
-👋Hi there
-I'am eunsol Good day
-If you want to contact me, plz leave me a message:)
+### 👋Hi there!!! Good day
+#### I'm eunsol
+#### If you want to contact me, plz leave me a message:)
 
 
 ### :hammer:Teck Stack
@@ -12,11 +12,8 @@ If you want to contact me, plz leave me a message:)
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 
 
-### :point_right:follow me
+### :telephone_receiver:follow me
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dmsthfghkd@naver.com)](mailto:dmsthfghkd@naver.com)
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sol-sunny.github.io/)](https://https://sol-sunny.github.io/)
-
-
-  
+### :capital_abcd:Used Language
 <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sol-sunny&layout=compact&theme=nord&hide_border=true" /></a> 
