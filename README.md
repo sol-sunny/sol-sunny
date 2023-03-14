@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi I'am eunsol 👋
+## :hammer:Teck Stack
++ Html
++ css
++ <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
++ React
 
+## :point_right:Contect me 
++ email 
++ phone
++  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https:///)
 <!--
 **sol-sunny/sol-sunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
