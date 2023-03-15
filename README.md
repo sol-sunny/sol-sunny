@@ -18,9 +18,9 @@
 
 
 ### :sparkles:Cowork Tools
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-squaree&logo=Slack&logoColor=white">
 
 
 ### 📧:dmsthfghkd@naver.com
