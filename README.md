@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=welcome%20eunsol's%20profile&fontSize=70" />
+
 ### 👋Hi there!!! Good day
 #### I'm eunsol
 #### If you want to contact me, plz leave me a message:)
